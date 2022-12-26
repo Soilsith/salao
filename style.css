@@ -1,0 +1,92 @@
+.titulo{
+    color: white;
+    text-align: center;
+}
+
+.h2{
+    color: white;
+}
+
+.ul{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+background: #000000;
+}
+
+p {
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.numero1{
+    display: inline-flex
+
+}
+
+.imagem1{
+    margin-right: 10px;
+    margin-block-end: 20px;
+}
+
+
+
+.numero2{
+    display: inline-flex;
+}
+
+.imagem2{
+    margin-right: 10px;
+    margin-block-end: 20px;
+}
+
+
+
+.numero3{
+    display: inline-flex;
+}
+
+.imagem3{
+    margin-right: 10px;
+    margin-block-end: 20px;
+}
+
+.numero4{
+    display: inline-flex;
+}
+
+.imagem4{
+    margin-right: 10px;
+    margin-block-end: 70px;
+}
+
+.unhabunner{
+    display: flex;
+    justify-content: center;
+    margin-block: 2%;
+}
+
+.unhah2{
+    color: white;
+    text-align: center;
+}
+
+.unhah3{
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-block-end: 5%;
+}
+
+
+.unha0{
+    display: inline-flex;
+    justify-content: center;
+}
+
+.unhas0{
+    display: flex;
+    
+}
